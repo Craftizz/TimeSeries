@@ -7,10 +7,10 @@ __pycache__/
 *.so
 
 # folders
-data/
+/data/
 !data/README.md
 
-results/
+/results/
 !results/README.md
 
 
