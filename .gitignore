@@ -1,0 +1,18 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# folders
+data/
+!data/README.md
+
+results/
+!results/README.md
+
+
+# IDE / OS
+.vscode/
